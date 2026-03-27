@@ -36,6 +36,9 @@ nav a {
     margin: 15px
 }
 
+nav a:hover{
+    color: yellow;
+}
 section {
     background-color: white;
     padding: 20px;
